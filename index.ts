@@ -1,3 +1,4 @@
+//  some simple TypeScript examples
 // Type annotation for a variable
 let message: string = "Hello, TypeScript!";
 console.log(message);

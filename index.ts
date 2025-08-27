@@ -9,7 +9,6 @@ function add(a: number, b: number): number {
 
 console.log(add(5, 10));
 
-// ---
 // Interface: A contract for an object's structure
 interface User {
   name: string;
@@ -29,7 +28,6 @@ let user1: User = {
 
 greetUser(user1);
 
-// ---
 // Class: A blueprint for creating objects
 class Car {
   make: string;
